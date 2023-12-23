@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"mBAEAA,MAAM,kB","sources":["webpack://food_dist/./src/js/script.js"],"sourcesContent":["'use strict'\n\nalert('this is webpack')\n"],"names":["alert"],"sourceRoot":""}
